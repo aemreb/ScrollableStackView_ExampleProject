@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "scrollablestackview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aemreb/ScrollableStackView.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3db9027783febfddd967e2953d5fd7a0963e8dca"
+      }
+    }
+  ],
+  "version" : 2
+}
